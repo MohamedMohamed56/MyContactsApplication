@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MyContactsApp/src"/>
+	<classpathentry kind="lib" path="MyContactsApp/dist/MyContactsApp.jar"/>
+	<classpathentry kind="lib" path="MyContactsApp/dist/run2054036436/MyContactsApp.jar"/>
+	<classpathentry kind="lib" path="MyContactsApp/dist/run379045289/MyContactsApp.jar"/>
+	<classpathentry kind="output" path="MyContactsApp/build/classes"/>
+</classpath>
